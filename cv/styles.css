@@ -1,0 +1,79 @@
+/**color schem
+black : #0B0C10
+Grey : #1F2833
+white : #C5C6C7
+Bright teal: #66FCF1
+Dark teal : #45A29E
+ **/
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  color: #3d70ae;
+}
+.black {
+  color: #0b0c10;
+}
+
+.blue {
+  color: #3d70ae;
+}
+
+.divimg {
+  max-width: 100%;
+  padding: 0px;
+  margin: 0px;
+  height: 800px;
+  position: relative;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: #3d70ae solid 1px;
+  background-image: url("../images/whitebg.jpeg");
+}
+
+.divheader {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  color: #1f2833;
+}
+hr {
+  border: 1px solid #3d70ae;
+}
+p {
+  font-size: 18px;
+}
+
+li {
+  font-size: 18px;
+}
+h1 {
+  font-size: 54px;
+  font-weight: 300;
+}
+.meimg {
+  border-radius: 50%;
+  border: 1px solid #3d70ae;
+  margin-top: 50px;
+}
+.exp {
+  background-color: #d7d7d7;
+  border-top: 1px solid #3d70ae;
+  border-bottom: 1px solid #3d70ae;
+}
+
+.conlink {
+  color: #0b0c10;
+}
+.navbar {
+  border-bottom: solid 2px #3d70ae;
+}
+.navbut {
+  color: #3d70ae;
+  font-weight: bolder;
+}
+.navbut:hover {
+  color: black;
+  background-color: #3d70ae;
+  border-radius: 10%;
+}
